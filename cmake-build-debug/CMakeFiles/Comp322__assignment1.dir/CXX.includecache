@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/erres/CLionProjects/Comp322  assignment1/functions.cpp
+iostream
+-
+
+/cygdrive/c/Users/erres/CLionProjects/Comp322  assignment1/main.cpp
+iostream
+-
+string
+-
+functions.cpp
+/cygdrive/c/Users/erres/CLionProjects/Comp322  assignment1/functions.cpp
+
